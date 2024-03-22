@@ -31,7 +31,7 @@ I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tec
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" style="margin-right: 25px;" /></a>
 
 </p>
-
+<img align="right" width="250" height="250" src="https://github.com/Yashprajapati01/Yashprajapati01/blob/main/material/Shooting%20gif.gif" alt="Spiderman !!"></a>
 
 ### Socials
 
