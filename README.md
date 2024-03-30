@@ -12,7 +12,7 @@ I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tec
 * 🚀  I'm currently working on [projects aayenge yahan](http://link dekh)
 * 🧠  I'm learning Android Development with JetPack Compose.
 * 🤝  I'm open to collaborating on Start Up & Tech Projects.
-* 😂  I'm Secretly a Spiderman !!
+* 😂  I'm Secretly Spiderman !!
 
 ### Skills
 
