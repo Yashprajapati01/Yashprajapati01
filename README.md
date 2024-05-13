@@ -75,7 +75,7 @@ I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tec
 
 <a href="http://www.github.com/Yashprajapati01"><img src="https://github-readme-stats.vercel.app/api?username=Yashprajapati01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yashprajapati01's GitHub stats" /></a>
 
-<a href="https://github.com/Yashprajapati01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashprajapati01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Yashprajapati01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashprajapati01&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
