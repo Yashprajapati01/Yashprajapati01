@@ -9,7 +9,9 @@ I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tec
 * 🌍  I'm based in Gurugram , India .
 * 🖥️  See my portfolio at [Here](https://yashprajapati01.github.io/Portfolio_final/)
 * ✉️  You can contact me at [prajapatiyash0011@gmail.com](mailto:prajapatiyash0011@gmail.com)
-* 🚀  I'm currently working on [Weather App](https://github.com/Yashprajapati01/weather_app)
+* 🚀  I'm currently working on
+    * [Weather App](https://github.com/Yashprajapati01/weather_app)
+    * [Chatter App](https://github.com/Yashprajapati01/Chatter)
 * 🧠  I'm learning Android Development with JetPack Compose.
 * 🤝  I'm open to collaborating on Start Up & Tech Projects.
 * 😂  I'm Secretly Spiderman !!
