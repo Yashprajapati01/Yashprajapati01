@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 App Developer
 -----------------
 
-I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tech in Electronics and Communication Engineering. I am an Android app developer in making !!. I am working on some Android projects.
+I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tech in Electronics and Communication Engineering. I am an App developer in making !!. I am working on some Android projects.
 
 * 🌍  I'm based in Gurugram , India .
 * 🖥️  See my portfolio at [Here](https://yashprajapati01.github.io/Portfolio_final/)
