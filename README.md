@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Prajapati
 ======================================================================================================================================
 
-App Developer
+Mobile App Developer
 -----------------
 
 I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tech in Electronics and Communication Engineering. I am an App developer in making !!.
