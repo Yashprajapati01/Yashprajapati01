@@ -12,8 +12,10 @@ I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tec
 * 🚀  I have worked on
     * [Weather App](https://github.com/Yashprajapati01/weather_app)
     * [Chatter App](https://github.com/Yashprajapati01/Chatter)
+    * [Spotify Connect](https://github.com/Yashprajapati01/spotify_connect)
+    * [Gallery Cleaner](https://github.com/Yashprajapati01/Gallery-Cleaner)
 * 🪄  I am working on
-    * [Attendance Mangement System](https://github.com/Yashprajapati01/Attendance-Mangement-System)
+    * [Part Time Pal](https://github.com/Yashprajapati01/Part-Time-Pal)
 * 🧠  I'm learning Flutter Development.
 * 🤝  I'm open to collaborating on Start Up & Tech Projects.
 * 😂  I'm Secretly Spiderman !!
