@@ -15,6 +15,7 @@ I'm Yash Prajapati, a Techie and a passionate developer Currently pursuing B.Tec
     * [Spotify Connect](https://github.com/Yashprajapati01/spotify_connect)
     * [Gallery Cleaner](https://github.com/Yashprajapati01/Gallery-Cleaner)
 * 🪄  I am working on
+    * [Focus Lock](https://github.com/Yashprajapati01/Focus-Lock)
     * [Part Time Pal](https://github.com/Yashprajapati01/Part-Time-Pal)
 * 🧠  I'm learning Flutter Development.
 * 🤝  I'm open to collaborating on Start Up & Tech Projects.
